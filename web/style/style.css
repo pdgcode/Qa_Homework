@@ -1,0 +1,39 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 50px;
+}
+
+p {
+  font-family: arial;
+  font-size: 20px;
+  text-align: center;
+}
+
+.center{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button {
+  background-color: #04AA6D; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  width: 500px;
+  text-align: center;
+}
+a{
+	text-decoration: none;
+}
